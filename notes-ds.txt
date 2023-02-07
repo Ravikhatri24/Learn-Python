@@ -1,0 +1,6 @@
+4 built in DS
+
+1. List
+2. Dictionary
+3. Tuple
+4. Set
